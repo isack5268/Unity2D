@@ -1,4 +1,5 @@
-# Unity2D-projects
-Тут пока пусто(
+# Projects developed on the Unity engine are stored here
 
-It's still empty(
+# Unfinished projects
+1. 2D Character controller
+2. Sky of Darkness (frozen and awaiting full processing)
